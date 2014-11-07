@@ -1,0 +1,50 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="aula15Json.Carros"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <!--Pivot Control-->
+        <controls:Pivot Title="CARROS">
+            <!--Pivot item one-->
+            <controls:PivotItem Header="luxo">
+                <Grid>
+                    <ListBox  x:Name="lstCarrosLuxo">
+                        <ListBox.ItemTemplate>
+                            <DataTemplate >
+                                
+                                <StackPanel Orientation="Horizontal" Height="80" Width="400">
+                                    <Grid Width="150">
+                                        <Image x:Name="Image" Source="{Binding Imagem}" VerticalAlignment="Center" />
+                                    </Grid>
+                                    
+                                    <TextBlock Text="{Binding Nome}" FontSize="26" VerticalAlignment="Center"/>
+                                    
+                                </StackPanel>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+
+                </Grid>
+            </controls:PivotItem>
+
+            <!--Pivot item two-->
+            <controls:PivotItem Header="exportivos">
+                <Grid/>
+            </controls:PivotItem>
+        </controls:Pivot>
+    </Grid>
+    
+</phone:PhoneApplicationPage>

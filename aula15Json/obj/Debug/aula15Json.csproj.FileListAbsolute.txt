@@ -1,0 +1,85 @@
+E:\Ulbra\6-LPC\Projetos\aula15Json\aula15Json\obj\Debug\aula15Json.csprojResolveAssemblyReference.cache
+E:\Ulbra\6-LPC\Projetos\aula15Json\aula15Json\obj\Debug\App.g.cs
+E:\Ulbra\6-LPC\Projetos\aula15Json\aula15Json\obj\Debug\Carros.g.cs
+E:\Ulbra\6-LPC\Projetos\aula15Json\aula15Json\obj\Debug\MainPage.g.cs
+E:\Ulbra\6-LPC\Projetos\aula15Json\aula15Json\obj\Debug\aula15Json.g.resources
+E:\Ulbra\6-LPC\Projetos\aula15Json\aula15Json\Bin\Debug\ApplicationIcon.png
+E:\Ulbra\6-LPC\Projetos\aula15Json\aula15Json\Bin\Debug\Background.png
+E:\Ulbra\6-LPC\Projetos\aula15Json\aula15Json\Bin\Debug\aula15Json.dll
+E:\Ulbra\6-LPC\Projetos\aula15Json\aula15Json\Bin\Debug\aula15Json.pdb
+E:\Ulbra\6-LPC\Projetos\aula15Json\aula15Json\Bin\Debug\AppManifest.xaml
+E:\Ulbra\6-LPC\Projetos\aula15Json\aula15Json\Bin\Debug\aula15Json.xap
+E:\Ulbra\6-LPC\Projetos\aula15Json\aula15Json\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\Ulbra\6-LPC\Projetos\aula15Json\aula15Json\Bin\Debug\Newtonsoft.Json.dll
+E:\Ulbra\6-LPC\Projetos\aula15Json\aula15Json\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\Ulbra\6-LPC\Projetos\aula15Json\aula15Json\obj\Debug\aula15Json.dll
+E:\Ulbra\6-LPC\Projetos\aula15Json\aula15Json\obj\Debug\aula15Json.pdb
+E:\Ulbra\6-LPC\Projetos\aula15Json\aula15Json\obj\Debug\XapCacheFile.xml
+C:\Users\G\Documents\Faculdade - Sistemas\Linguagem De Programacão Comercial\Windows Phone Apps\aula16Json\aula15Json\Bin\Debug\ApplicationIcon.png
+C:\Users\G\Documents\Faculdade - Sistemas\Linguagem De Programacão Comercial\Windows Phone Apps\aula16Json\aula15Json\Bin\Debug\Background.png
+C:\Users\G\Documents\Faculdade - Sistemas\Linguagem De Programacão Comercial\Windows Phone Apps\aula16Json\aula15Json\Bin\Debug\aula15Json.dll
+C:\Users\G\Documents\Faculdade - Sistemas\Linguagem De Programacão Comercial\Windows Phone Apps\aula16Json\aula15Json\Bin\Debug\aula15Json.pdb
+C:\Users\G\Documents\Faculdade - Sistemas\Linguagem De Programacão Comercial\Windows Phone Apps\aula16Json\aula15Json\Bin\Debug\AppManifest.xaml
+C:\Users\G\Documents\Faculdade - Sistemas\Linguagem De Programacão Comercial\Windows Phone Apps\aula16Json\aula15Json\Bin\Debug\aula15Json.xap
+C:\Users\G\Documents\Faculdade - Sistemas\Linguagem De Programacão Comercial\Windows Phone Apps\aula16Json\aula15Json\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\G\Documents\Faculdade - Sistemas\Linguagem De Programacão Comercial\Windows Phone Apps\aula16Json\aula15Json\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\G\Documents\Faculdade - Sistemas\Linguagem De Programacão Comercial\Windows Phone Apps\aula16Json\aula15Json\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\G\Documents\Faculdade - Sistemas\Linguagem De Programacão Comercial\Windows Phone Apps\aula16Json\aula15Json\obj\Debug\aula15Json.csprojResolveAssemblyReference.cache
+C:\Users\G\Documents\Faculdade - Sistemas\Linguagem De Programacão Comercial\Windows Phone Apps\aula16Json\aula15Json\obj\Debug\App.g.cs
+C:\Users\G\Documents\Faculdade - Sistemas\Linguagem De Programacão Comercial\Windows Phone Apps\aula16Json\aula15Json\obj\Debug\Carros.g.cs
+C:\Users\G\Documents\Faculdade - Sistemas\Linguagem De Programacão Comercial\Windows Phone Apps\aula16Json\aula15Json\obj\Debug\MainPage.g.cs
+C:\Users\G\Documents\Faculdade - Sistemas\Linguagem De Programacão Comercial\Windows Phone Apps\aula16Json\aula15Json\obj\Debug\aula15Json.g.resources
+C:\Users\G\Documents\Faculdade - Sistemas\Linguagem De Programacão Comercial\Windows Phone Apps\aula16Json\aula15Json\obj\Debug\aula15Json.dll
+C:\Users\G\Documents\Faculdade - Sistemas\Linguagem De Programacão Comercial\Windows Phone Apps\aula16Json\aula15Json\obj\Debug\aula15Json.pdb
+C:\Users\G\Documents\Faculdade - Sistemas\Linguagem De Programacão Comercial\Windows Phone Apps\aula16Json\aula15Json\obj\Debug\XapCacheFile.xml
+E:\Ulbra\6-LPC\Projetos\aula16Json\aula15Json\Bin\Debug\ApplicationIcon.png
+E:\Ulbra\6-LPC\Projetos\aula16Json\aula15Json\Bin\Debug\Background.png
+E:\Ulbra\6-LPC\Projetos\aula16Json\aula15Json\Bin\Debug\aula15Json.dll
+E:\Ulbra\6-LPC\Projetos\aula16Json\aula15Json\Bin\Debug\aula15Json.pdb
+E:\Ulbra\6-LPC\Projetos\aula16Json\aula15Json\Bin\Debug\AppManifest.xaml
+E:\Ulbra\6-LPC\Projetos\aula16Json\aula15Json\Bin\Debug\aula15Json.xap
+E:\Ulbra\6-LPC\Projetos\aula16Json\aula15Json\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\Ulbra\6-LPC\Projetos\aula16Json\aula15Json\Bin\Debug\Newtonsoft.Json.dll
+E:\Ulbra\6-LPC\Projetos\aula16Json\aula15Json\Bin\Debug\Microsoft.Phone.Controls.xml
+E:\Ulbra\6-LPC\Projetos\aula16Json\aula15Json\obj\Debug\aula15Json.csprojResolveAssemblyReference.cache
+E:\Ulbra\6-LPC\Projetos\aula16Json\aula15Json\obj\Debug\App.g.cs
+E:\Ulbra\6-LPC\Projetos\aula16Json\aula15Json\obj\Debug\Carros.g.cs
+E:\Ulbra\6-LPC\Projetos\aula16Json\aula15Json\obj\Debug\MainPage.g.cs
+E:\Ulbra\6-LPC\Projetos\aula16Json\aula15Json\obj\Debug\aula15Json.g.resources
+E:\Ulbra\6-LPC\Projetos\aula16Json\aula15Json\obj\Debug\aula15Json.dll
+E:\Ulbra\6-LPC\Projetos\aula16Json\aula15Json\obj\Debug\aula15Json.pdb
+E:\Ulbra\6-LPC\Projetos\aula16Json\aula15Json\obj\Debug\XapCacheFile.xml
+C:\Users\Cássio\Dropbox\Ulbra\6-LPC\Projetos\aula16Json\aula15Json\Bin\Debug\ApplicationIcon.png
+C:\Users\Cássio\Dropbox\Ulbra\6-LPC\Projetos\aula16Json\aula15Json\Bin\Debug\Background.png
+C:\Users\Cássio\Dropbox\Ulbra\6-LPC\Projetos\aula16Json\aula15Json\Bin\Debug\aula15Json.dll
+C:\Users\Cássio\Dropbox\Ulbra\6-LPC\Projetos\aula16Json\aula15Json\Bin\Debug\aula15Json.pdb
+C:\Users\Cássio\Dropbox\Ulbra\6-LPC\Projetos\aula16Json\aula15Json\Bin\Debug\AppManifest.xaml
+C:\Users\Cássio\Dropbox\Ulbra\6-LPC\Projetos\aula16Json\aula15Json\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Cássio\Dropbox\Ulbra\6-LPC\Projetos\aula16Json\aula15Json\Bin\Debug\aula15Json_Debug_AnyCPU.xap
+C:\Users\Cássio\Dropbox\Ulbra\6-LPC\Projetos\aula16Json\aula15Json\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Cássio\Dropbox\Ulbra\6-LPC\Projetos\aula16Json\aula15Json\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cássio\Dropbox\Ulbra\6-LPC\Projetos\aula16Json\aula15Json\obj\Debug\aula15Json.csprojResolveAssemblyReference.cache
+C:\Users\Cássio\Dropbox\Ulbra\6-LPC\Projetos\aula16Json\aula15Json\obj\Debug\App.g.cs
+C:\Users\Cássio\Dropbox\Ulbra\6-LPC\Projetos\aula16Json\aula15Json\obj\Debug\Carros.g.cs
+C:\Users\Cássio\Dropbox\Ulbra\6-LPC\Projetos\aula16Json\aula15Json\obj\Debug\MainPage.g.cs
+C:\Users\Cássio\Dropbox\Ulbra\6-LPC\Projetos\aula16Json\aula15Json\obj\Debug\aula15Json.g.resources
+C:\Users\Cássio\Dropbox\Ulbra\6-LPC\Projetos\aula16Json\aula15Json\obj\Debug\aula15Json.dll
+C:\Users\Cássio\Dropbox\Ulbra\6-LPC\Projetos\aula16Json\aula15Json\obj\Debug\aula15Json.pdb
+C:\Users\Cássio\Dropbox\Ulbra\6-LPC\Projetos\aula16Json\aula15Json\obj\Debug\XapCacheFile.xml
+C:\Users\Cássio\Copy\Projetos C#\LPC\aula16Json\aula15Json\Bin\Debug\ApplicationIcon.png
+C:\Users\Cássio\Copy\Projetos C#\LPC\aula16Json\aula15Json\Bin\Debug\Background.png
+C:\Users\Cássio\Copy\Projetos C#\LPC\aula16Json\aula15Json\Bin\Debug\aula15Json.dll
+C:\Users\Cássio\Copy\Projetos C#\LPC\aula16Json\aula15Json\Bin\Debug\aula15Json.pdb
+C:\Users\Cássio\Copy\Projetos C#\LPC\aula16Json\aula15Json\Bin\Debug\AppManifest.xaml
+C:\Users\Cássio\Copy\Projetos C#\LPC\aula16Json\aula15Json\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Cássio\Copy\Projetos C#\LPC\aula16Json\aula15Json\Bin\Debug\aula15Json_Debug_AnyCPU.xap
+C:\Users\Cássio\Copy\Projetos C#\LPC\aula16Json\aula15Json\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Cássio\Copy\Projetos C#\LPC\aula16Json\aula15Json\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cássio\Copy\Projetos C#\LPC\aula16Json\aula15Json\obj\Debug\aula15Json.csprojResolveAssemblyReference.cache
+C:\Users\Cássio\Copy\Projetos C#\LPC\aula16Json\aula15Json\obj\Debug\App.g.cs
+C:\Users\Cássio\Copy\Projetos C#\LPC\aula16Json\aula15Json\obj\Debug\Carros.g.cs
+C:\Users\Cássio\Copy\Projetos C#\LPC\aula16Json\aula15Json\obj\Debug\MainPage.g.cs
+C:\Users\Cássio\Copy\Projetos C#\LPC\aula16Json\aula15Json\obj\Debug\aula15Json.g.resources
+C:\Users\Cássio\Copy\Projetos C#\LPC\aula16Json\aula15Json\obj\Debug\aula15Json.dll
+C:\Users\Cássio\Copy\Projetos C#\LPC\aula16Json\aula15Json\obj\Debug\aula15Json.pdb
+C:\Users\Cássio\Copy\Projetos C#\LPC\aula16Json\aula15Json\obj\Debug\XapCacheFile.xml
